@@ -1,0 +1,1001 @@
+Starting Translation Service...
+sensors size : 0
+############################################################################# 
+{1=1, 2=1, 3=1, 4=1, 5=1, 6=1, 7=1, 8=1, 9=1, 10=1}
+The Mobility dataset used in this simulation for user: 1 is: /home/d.aitomar/IdeaProjects/Ifogsim_Kmeans_SOM-main/dataset/newDataSet/user/user_1.csv
+The Mobility dataset used in this simulation for user: 2 is: /home/d.aitomar/IdeaProjects/Ifogsim_Kmeans_SOM-main/dataset/newDataSet/user/user_2.csv
+The Mobility dataset used in this simulation for user: 3 is: /home/d.aitomar/IdeaProjects/Ifogsim_Kmeans_SOM-main/dataset/newDataSet/user/user_3.csv
+The Mobility dataset used in this simulation for user: 4 is: /home/d.aitomar/IdeaProjects/Ifogsim_Kmeans_SOM-main/dataset/newDataSet/user/user_4.csv
+The Mobility dataset used in this simulation for user: 5 is: /home/d.aitomar/IdeaProjects/Ifogsim_Kmeans_SOM-main/dataset/newDataSet/user/user_5.csv
+The Mobility dataset used in this simulation for user: 6 is: /home/d.aitomar/IdeaProjects/Ifogsim_Kmeans_SOM-main/dataset/newDataSet/user/user_6.csv
+The Mobility dataset used in this simulation for user: 7 is: /home/d.aitomar/IdeaProjects/Ifogsim_Kmeans_SOM-main/dataset/newDataSet/user/user_7.csv
+The Mobility dataset used in this simulation for user: 8 is: /home/d.aitomar/IdeaProjects/Ifogsim_Kmeans_SOM-main/dataset/newDataSet/user/user_8.csv
+The Mobility dataset used in this simulation for user: 9 is: /home/d.aitomar/IdeaProjects/Ifogsim_Kmeans_SOM-main/dataset/newDataSet/user/user_9.csv
+The Mobility dataset used in this simulation for user: 10 is: /home/d.aitomar/IdeaProjects/Ifogsim_Kmeans_SOM-main/dataset/newDataSet/user/user_10.csv
+****MapModule cloud
+Placement of operator clientModule on device mobile_0 successful.!!!!!!!
+Placement of operator processingModule on device gateway_33 successful.!!!!!!!
+Placement of operator clientModule on device mobile_1 successful.!!!!!!!
+Placement of operator clientModule on device mobile_2 successful.!!!!!!!
+Placement of operator clientModule on device mobile_3 successful.!!!!!!!
+Placement of operator clientModule on device mobile_5 successful.!!!!!!!
+Placement of operator clientModule on device mobile_6 successful.!!!!!!!
+Placement of operator clientModule on device mobile_7 successful.!!!!!!!
+Placement of operator clientModule on device mobile_8 successful.!!!!!!!
+Placement of operator clientModule on device mobile_4 successful.!!!!!!!
+Placement of operator processingModule on device gateway_26 successful.!!!!!!!
+Placement of operator clientModule on device mobile_9 successful.!!!!!!!
+Placement of operator processingModule on device gateway_27 successful.!!!!!!!
+Creating clientModule on device mobile_0
+Creating clientModule on device mobile_1
+Creating clientModule on device mobile_2
+Creating clientModule on device mobile_3
+Creating clientModule on device mobile_4
+Creating clientModule on device mobile_5
+Creating clientModule on device mobile_6
+Creating clientModule on device mobile_7
+Creating clientModule on device mobile_8
+Creating clientModule on device mobile_9
+Creating storageModule on device cloud
+Creating processingModule on device gateway_26
+Creating processingModule on device gateway_27
+Creating processingModule on device gateway_33
+0.0 Start sending Clustering Request to Fog Devices in level: [2]
+0.0 Submitted application Translation_Service
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_112 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_105 is receiving processingModule
+gateway_112 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_111 is receiving processingModule
+gateway_105 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_30 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_25 is sending processingModule
+gateway_15 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_111 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_105 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_15 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_105 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_31 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_26 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_25 is sending processingModule
+gateway_30 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_28 is receiving processingModule
+gateway_25 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_111 is receiving processingModule
+gateway_28 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_31 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_25 is sending processingModule
+gateway_33 is sending processingModule
+gateway_31 is receiving processingModule
+gateway_26 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_33 is sending processingModule
+gateway_1 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_112 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_26 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_112 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_1 is sending processingModule
+gateway_15 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_26 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_30 is sending processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_26 is sending processingModule
+gateway_26 is sending processingModule
+gateway_71 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_30 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_26 is sending processingModule
+gateway_71 is sending processingModule
+gateway_111 is sending processingModule
+gateway_5 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_5 is receiving processingModule
+gateway_15 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_32 is receiving processingModule
+gateway_26 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_5 is sending processingModule
+gateway_27 is sending processingModule
+gateway_30 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_15 is receiving processingModule
+gateway_5 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_32 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_31 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_30 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_15 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_30 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_5 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_31 is sending processingModule
+gateway_33 is sending processingModule
+gateway_34 is receiving processingModule
+gateway_5 is sending processingModule
+gateway_31 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_34 is receiving processingModule
+gateway_31 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_34 is sending processingModule
+gateway_34 is sending processingModule
+gateway_31 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_4 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_34 is receiving processingModule
+gateway_26 is receiving processingModule
+gateway_31 is sending processingModule
+gateway_33 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_34 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_4 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_26 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_25 is sending processingModule
+gateway_26 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_111 is receiving processingModule
+gateway_25 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_27 is sending processingModule
+gateway_29 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_111 is sending processingModule
+gateway_33 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_31 is receiving processingModule
+gateway_25 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_29 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_31 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_31 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_31 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_34 is receiving processingModule
+gateway_31 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_34 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_105 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_27 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_105 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_30 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_25 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_26 is sending processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_25 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_31 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_26 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_112 is receiving processingModule
+gateway_31 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_111 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_112 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_29 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_27 is sending processingModule
+gateway_111 is sending processingModule
+gateway_38 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_27 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_38 is sending processingModule
+gateway_34 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_34 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_107 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_31 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_109 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_30 is sending processingModule
+gateway_107 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_109 is sending processingModule
+gateway_28 is receiving processingModule
+gateway_30 is receiving processingModule
+gateway_29 is sending processingModule
+gateway_31 is sending processingModule
+gateway_5 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_33 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_28 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_32 is receiving processingModule
+gateway_43 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_5 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_32 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_25 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_43 is sending processingModule
+gateway_31 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_31 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_25 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_25 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_32 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_31 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_32 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_25 is sending processingModule
+gateway_27 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_31 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_111 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_32 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_32 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_17 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_17 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_31 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_26 is sending processingModule
+gateway_32 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_45 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_32 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_45 is sending processingModule
+gateway_31 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_26 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_33 is sending processingModule
+gateway_31 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_26 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_111 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_31 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_26 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_33 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_31 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_31 is sending processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_31 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_27 is sending processingModule
+gateway_30 is sending processingModule
+gateway_30 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_30 is receiving processingModule
+gateway_31 is sending processingModule
+gateway_33 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_26 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_108 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_108 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_111 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_33 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_29 is receiving processingModule
+gateway_111 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_29 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_25 is sending processingModule
+gateway_30 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_25 is sending processingModule
+gateway_30 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_31 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_30 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_25 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_28 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_25 is sending processingModule
+gateway_26 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_32 is receiving processingModule
+gateway_25 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_28 is sending processingModule
+gateway_31 is receiving processingModule
+gateway_38 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_33 is sending processingModule
+gateway_38 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_32 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_31 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_31 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_30 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_26 is sending processingModule
+gateway_33 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_33 is sending processingModule
+gateway_111 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_25 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_1 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_26 is sending processingModule
+gateway_27 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_112 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_33 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_1 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_112 is sending processingModule
+gateway_105 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_29 is receiving processingModule
+gateway_111 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_29 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is sending processingModule
+gateway_111 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_30 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_111 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_105 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_31 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_45 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_1 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_45 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_30 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_1 is sending processingModule
+gateway_26 is sending processingModule
+gateway_27 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_31 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_34 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_34 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_25 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_107 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_1 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_107 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_111 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_29 is receiving processingModule
+gateway_111 is sending processingModule
+gateway_31 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_27 is sending processingModule
+gateway_25 is receiving processingModule
+gateway_26 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_1 is sending processingModule
+gateway_26 is sending processingModule
+gateway_29 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_28 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_33 is sending processingModule
+gateway_33 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_28 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_31 is sending processingModule
+gateway_33 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_33 is sending processingModule
+gateway_30 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is receiving processingModule
+gateway_27 is sending processingModule
+gateway_26 is sending processingModule
+gateway_31 is receiving processingModule
+gateway_30 is sending processingModule
+gateway_26 is receiving processingModule
+gateway_31 is sending processingModule
+gateway_27 is receiving processingModule
+gateway_26 is sending processingModule
+gateway_33 is receiving processingModule
+gateway_27 is sending processingModule
+=========================================
+============== RESULTS ==================
+=========================================
+EXECUTION TIME : 918
+=========================================
+=========================================
+TUPLE CPU EXECUTION DELY
+=========================================
+ACTION_COMMAND ---> 0.1559999999999491
+RAW_DATA ---> 0.18748774528503415
+PROCESSED_DATA ---> 0.03482142857152819
+M-SENSOR ---> 10.0
+=========================================
+mobile_0 : Energy Consumed = 174924.0969999997
+mobile_1 : Energy Consumed = 174888.9759999997
+mobile_2 : Energy Consumed = 174678.50449999978
+mobile_3 : Energy Consumed = 174989.75799999957
+mobile_4 : Energy Consumed = 175015.90787499986
+mobile_5 : Energy Consumed = 174891.01199999967
+mobile_6 : Energy Consumed = 174543.87399999966
+mobile_7 : Energy Consumed = 174930.20499999973
+mobile_8 : Energy Consumed = 174838.99728999982
+mobile_9 : Energy Consumed = 175040.1489999998
+cloud : Energy Consumed = 2702737.8439732045
+proxy-server_0 : Energy Consumed = 166866.59999999995
+proxy-server_1 : Energy Consumed = 166866.59999999995
+proxy-server_2 : Energy Consumed = 166866.59999999995
+proxy-server_3 : Energy Consumed = 166866.59999999995
+proxy-server_4 : Energy Consumed = 166866.59999999995
+proxy-server_5 : Energy Consumed = 166866.59999999995
+proxy-server_6 : Energy Consumed = 166866.59999999995
+proxy-server_7 : Energy Consumed = 166866.59999999995
+proxy-server_8 : Energy Consumed = 166866.59999999995
+proxy-server_9 : Energy Consumed = 166866.59999999995
+proxy-server_10 : Energy Consumed = 166866.59999999995
+proxy-server_11 : Energy Consumed = 166866.59999999995
+gateway_0 : Energy Consumed = 166866.59999999995
+gateway_1 : Energy Consumed = 172534.9402912501
+gateway_2 : Energy Consumed = 166866.59999999995
+gateway_3 : Energy Consumed = 166866.59999999995
+gateway_4 : Energy Consumed = 167108.34639124994
+gateway_5 : Energy Consumed = 171281.38514749994
+gateway_6 : Energy Consumed = 166866.59999999995
+gateway_7 : Energy Consumed = 166866.59999999995
+gateway_8 : Energy Consumed = 166866.59999999995
+gateway_9 : Energy Consumed = 166866.59999999995
+gateway_10 : Energy Consumed = 166866.59999999995
+gateway_11 : Energy Consumed = 166866.59999999995
+gateway_12 : Energy Consumed = 166866.59999999995
+gateway_13 : Energy Consumed = 166866.59999999995
+gateway_14 : Energy Consumed = 166866.59999999995
+gateway_15 : Energy Consumed = 171188.45173874995
+gateway_16 : Energy Consumed = 166866.59999999995
+gateway_17 : Energy Consumed = 166866.59999999995
+gateway_18 : Energy Consumed = 166866.59999999995
+gateway_19 : Energy Consumed = 166866.59999999995
+gateway_20 : Energy Consumed = 166866.59999999995
+gateway_21 : Energy Consumed = 166866.59999999995
+gateway_22 : Energy Consumed = 166866.59999999995
+gateway_23 : Energy Consumed = 166866.59999999995
+gateway_24 : Energy Consumed = 166866.59999999995
+gateway_25 : Energy Consumed = 185882.9867075002
+gateway_26 : Energy Consumed = 186703.0717459997
+gateway_27 : Energy Consumed = 208391.60344850086
+gateway_28 : Energy Consumed = 169096.4041675
+gateway_29 : Energy Consumed = 167367.42441500002
+gateway_30 : Energy Consumed = 192540.12651500024
+gateway_31 : Energy Consumed = 189155.97585875014
+gateway_32 : Energy Consumed = 173010.3649
+gateway_33 : Energy Consumed = 206008.34859270076
+gateway_34 : Energy Consumed = 169324.10595999996
+gateway_35 : Energy Consumed = 166866.59999999995
+gateway_36 : Energy Consumed = 166866.59999999995
+gateway_37 : Energy Consumed = 166866.59999999995
+gateway_38 : Energy Consumed = 166900.06797999996
+gateway_39 : Energy Consumed = 166866.59999999995
+gateway_40 : Energy Consumed = 166866.59999999995
+gateway_41 : Energy Consumed = 166866.59999999995
+gateway_42 : Energy Consumed = 166866.59999999995
+gateway_43 : Energy Consumed = 168573.46697999997
+gateway_44 : Energy Consumed = 166866.59999999995
+gateway_45 : Energy Consumed = 168845.99195999998
+gateway_46 : Energy Consumed = 166866.59999999995
+gateway_47 : Energy Consumed = 166866.59999999995
+gateway_48 : Energy Consumed = 166866.59999999995
+gateway_49 : Energy Consumed = 166866.59999999995
+gateway_50 : Energy Consumed = 166866.59999999995
+gateway_51 : Energy Consumed = 166866.59999999995
+gateway_52 : Energy Consumed = 166866.59999999995
+gateway_53 : Energy Consumed = 166866.59999999995
+gateway_54 : Energy Consumed = 166866.59999999995
+gateway_55 : Energy Consumed = 166866.59999999995
+gateway_56 : Energy Consumed = 166866.59999999995
+gateway_57 : Energy Consumed = 166866.59999999995
+gateway_58 : Energy Consumed = 166866.59999999995
+gateway_59 : Energy Consumed = 166866.59999999995
+gateway_60 : Energy Consumed = 166866.59999999995
+gateway_61 : Energy Consumed = 166866.59999999995
+gateway_62 : Energy Consumed = 166866.59999999995
+gateway_63 : Energy Consumed = 166866.59999999995
+gateway_64 : Energy Consumed = 166866.59999999995
+gateway_65 : Energy Consumed = 166866.59999999995
+gateway_66 : Energy Consumed = 166866.59999999995
+gateway_67 : Energy Consumed = 166866.59999999995
+gateway_68 : Energy Consumed = 166866.59999999995
+gateway_69 : Energy Consumed = 166866.59999999995
+gateway_70 : Energy Consumed = 166866.59999999995
+gateway_71 : Energy Consumed = 168334.40997999997
+gateway_72 : Energy Consumed = 166866.59999999995
+gateway_73 : Energy Consumed = 166866.59999999995
+gateway_74 : Energy Consumed = 166866.59999999995
+gateway_75 : Energy Consumed = 166866.59999999995
+gateway_76 : Energy Consumed = 166866.59999999995
+gateway_77 : Energy Consumed = 166866.59999999995
+gateway_78 : Energy Consumed = 166866.59999999995
+gateway_79 : Energy Consumed = 166866.59999999995
+gateway_80 : Energy Consumed = 166866.59999999995
+gateway_81 : Energy Consumed = 166866.59999999995
+gateway_82 : Energy Consumed = 166866.59999999995
+gateway_83 : Energy Consumed = 166866.59999999995
+gateway_84 : Energy Consumed = 166866.59999999995
+gateway_85 : Energy Consumed = 166866.59999999995
+gateway_86 : Energy Consumed = 166866.59999999995
+gateway_87 : Energy Consumed = 166866.59999999995
+gateway_88 : Energy Consumed = 166866.59999999995
+gateway_89 : Energy Consumed = 166866.59999999995
+gateway_90 : Energy Consumed = 166866.59999999995
+gateway_91 : Energy Consumed = 166866.59999999995
+gateway_92 : Energy Consumed = 166866.59999999995
+gateway_93 : Energy Consumed = 166866.59999999995
+gateway_94 : Energy Consumed = 166866.59999999995
+gateway_95 : Energy Consumed = 166866.59999999995
+gateway_96 : Energy Consumed = 166866.59999999995
+gateway_97 : Energy Consumed = 166866.59999999995
+gateway_98 : Energy Consumed = 166866.59999999995
+gateway_99 : Energy Consumed = 166866.59999999995
+gateway_100 : Energy Consumed = 166866.59999999995
+gateway_101 : Energy Consumed = 166866.59999999995
+gateway_102 : Energy Consumed = 166866.59999999995
+gateway_103 : Energy Consumed = 166866.59999999995
+gateway_104 : Energy Consumed = 166866.59999999995
+gateway_105 : Energy Consumed = 169802.21996000002
+gateway_106 : Energy Consumed = 166866.59999999995
+gateway_107 : Energy Consumed = 168845.99195999998
+gateway_108 : Energy Consumed = 169262.54878249997
+gateway_109 : Energy Consumed = 168334.40997999997
+gateway_110 : Energy Consumed = 166866.59999999995
+gateway_111 : Energy Consumed = 186424.15199125008
+gateway_112 : Energy Consumed = 167411.64995999998
+gateway_113 : Energy Consumed = 166866.59999999995
+gateway_114 : Energy Consumed = 166866.59999999995
+gateway_115 : Energy Consumed = 166866.59999999995
+gateway_116 : Energy Consumed = 166866.59999999995
+gateway_117 : Energy Consumed = 166866.59999999995
+ Total energy : =  2.637166737005171E7
+Cost of execution in cloud. = 549194.7500002182
+Total network usage = 106400.0
+Total time required for module migration for clustering = 796.0
+Début =====
+numbre of shet :2
+Valeurs enregistrez sur  EXCEL.
